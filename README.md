@@ -112,4 +112,4 @@ This website is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me at therahman14@gmail.com. I'm excited to hear from you and make this project even better!
+If you have any questions or feedback, feel free to reach out to me at <therahman14@gmail.com>. I'm excited to hear from you and make this project even better!
